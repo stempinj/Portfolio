@@ -1,1 +1,2 @@
-GT = ground truth. original dataset
+full = original dataset. 
+GT = ground truth. These are just the values removed from full 
