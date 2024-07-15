@@ -1,0 +1,1 @@
+So, this particular project jumped from Python to R then back to Python. As such, a lot of the data are saved in a series of folders. This was a means of making sure that missing datasets were generated and could be referenced again, copy all files going into R, and save files from R.
