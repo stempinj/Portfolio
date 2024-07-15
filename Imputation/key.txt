@@ -2,3 +2,6 @@ full = original dataset.
 missing = take the full, remove some. Contains NaN
 GT = ground truth. These are just the values removed from full 
 imputedFull = take the df with missing data, impute the missing values. There should be 0 NaN
+justImputed = just the imputed values
+RF = Randon Forest
+mice = multivariate imputation by chained equations
