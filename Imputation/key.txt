@@ -5,3 +5,6 @@ imputedFull = take the df with missing data, impute the missing values. There sh
 justImputed = just the imputed values
 RF = Randon Forest
 mice = multivariate imputation by chained equations
+BLR = Bayesian Linear Regression
+pmm = predictuve mean matching
+cart = imputes univariate missing data using classification and regression trees. Lisa Doove, Stef van Buuren, Elise Dusseldorp, 2012
